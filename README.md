@@ -1,4 +1,4 @@
-# React With TypeScript
+# React Study
 
 ## TypeScipt Info
 
